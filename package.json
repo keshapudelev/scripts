@@ -117,7 +117,7 @@
     "vue-router": "^4.4.3"
   },
   "resolutions": {
-    "@nuxt/schema": "3.13.0",
+    "@nuxt/schema": "3.13.1",
     "@nuxt/scripts": "workspace:*",
     "@unhead/dom": "1.10.2",
     "@unhead/schema": "1.10.4",
